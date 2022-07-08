@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage-on-aws
-  description: 'CDK stack project to create infra to run backstage app'
+  name: backstage-cloud
+  description: 'backstage cloud on aws'
   annotations:
-    github.com/project-slug: rbogle/backstage-on-aws
+    github.com/project-slug: dhanu0001/backstage-cloud
     
 spec:
   type: service
   lifecycle: experimental
-  owner: rbogle
+  owner: dhanu0001

@@ -9,4 +9,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: dhanu0001
+  owner: user: dhanu0001
